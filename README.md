@@ -1,9 +1,10 @@
 # Best In Place
-[![Build Status](https://secure.travis-ci.org/bernat/best_in_place.png)](http://travis-ci.org/bernat/best_in_place)
-**The Unobtrusive in Place editing solution**
+[Originally from https://github.com/bernat/best_in_place](https://github.com/bernat/best_in_place)
+**This gem is a working version needed for the cmuis.net project. Originally from the rails-4 branch at bernat/best_in_place that no longer exists as rails-4 worked has moved to master. However, master is currently not stable enough for our uses in production, so we grabbed the copy we had on a local machine before the rails-4 branch was terminated and posting it on github are using it to build the cmuis.net project.**
 
 
-##Description
+##Description 
+###(docs unchanged from bernat/best_in_place)
 
 **Best in Place** is a jQuery based AJAX Inplace-Editor that takes profit of RESTful server-side controllers to allow users to edit stuff with
 no need of forms. If the server have standard defined REST methods, particularly those to UPDATE your objects (HTTP PUT), then by adding the
